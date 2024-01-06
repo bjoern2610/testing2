@@ -1,0 +1,3 @@
+[submodule "opencv-mobile"]
+	path = opencv-mobile
+	url = https://github.com/nihui/opencv-mobile.git
